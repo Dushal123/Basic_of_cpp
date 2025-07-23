@@ -1,0 +1,114 @@
+ 1. Hello World Program in C++
+✅ Aim:
+To understand the basic structure and syntax of a C++ program by writing a program that displays the message "Hello, World!" on the screen.
+
+🧠 Theory:
+The "Hello World" program is considered the most basic and introductory program when learning a new programming language. It serves multiple purposes:
+
+Familiarizes you with the structure of a C++ program.
+
+Teaches you how to display output on the screen.
+
+Gives a first-hand understanding of how the program is written, compiled, and executed.
+
+🔸 Components involved:
+Header File Inclusion:
+
+C++ uses libraries for functionalities like input and output.
+
+The iostream library is used to handle input from the keyboard and output to the screen.
+
+Namespace:
+
+std is the standard namespace that includes common functions like cout.
+
+It avoids the need to write std::cout every time.
+
+Main Function:
+
+Every C++ program begins execution from the main() function.
+
+It is essential for the compiler to identify the starting point of the program.
+
+Output Statement:
+
+cout is used to send output to the console.
+
+endl is used to move the cursor to the next line.
+
+Return Statement:
+
+return 0; indicates that the program has successfully completed.
+
+📌 Learning Outcomes:
+Understanding basic syntax and program structure.
+
+Introduction to input/output operations.
+
+Learning how the compiler and linker work together to run a C++ program.
+
+🔚 Conclusion:
+The "Hello World" program provides a simple and clear starting point for beginners. It introduces the essential building blocks of C++ and helps verify that the compiler and development environment are set up correctly.
+
+ 2. Simple Calculator Program in C++
+✅ Aim:
+To develop a simple calculator program in C++ that performs basic arithmetic operations such as addition, subtraction, multiplication, and division on two numbers based on user input.
+
+🧠 Theory:
+A simple calculator is a common beginner-level programming task that helps in learning:
+
+Taking user input using the cin command.
+
+Using variables to store numeric values.
+
+Implementing conditional statements (if-else or switch-case) to handle different operations.
+
+Applying arithmetic operators for calculation.
+
+🔸 Key Concepts Covered:
+Input/Output Handling:
+
+The program accepts two numbers and an operator from the user.
+
+It displays the result using cout.
+
+Data Types:
+
+Variables are declared using types like int, float, or double depending on the required precision.
+
+Control Flow:
+
+Conditional statements are used to perform different actions based on the operator provided.
+
+switch-case or if-else statements help in selecting the correct operation.
+
+Arithmetic Operators:
+
++ for addition
+
+- for subtraction
+
+* for multiplication
+
+/ for division
+
+Validation:
+
+The program may include checks to handle invalid input such as division by zero or unsupported operators.
+
+Error Handling (Optional):
+
+If the user enters an invalid operator, the program can display an error message.
+
+Division by zero should also be handled carefully.
+
+📌 Learning Outcomes:
+Handling real-world problems using logical structures.
+
+Learning to process user input and apply decision-making.
+
+Understanding the role of operators and conditional logic in programming.
+
+🔚 Conclusion:
+The Simple Calculator program is a foundational exercise for understanding how logic and user interaction work together in C++. It builds core concepts such as decision-making, operators, and user-defined input/output, which are essential for further programming development.
+
